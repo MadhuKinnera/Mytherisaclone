@@ -1,11 +1,46 @@
-# The-WebEngers
-Clone of Mytheresa
-Position: Team Leader
+# Mytheresa-clone-website
 
-Duration: 1 Week
+This was a collaborative project made by 4 members Executed in 5 days.
+1) Mo Zakir
+2) Madhu Kinnera
+3) Suraj
+4) Moin Khan
+5) Anwar
 
-Responsibilities: Managed team | Managed Git Repository | Life section | Payment Page | Address Page
+  Deploy Link -https://mytherisa.netlify.app/
 
-Tech Stack Used: JavaScript | HTML | CSS 
+---
 
-Description: Myteresa.com is an E-commerce website famous for its luxury products. We built the clone of Myteresa.com clone within 1 week. It was a Team collaborative project in which I got a chance to lead the team. I lead the 7 member team. We all work cooperatively to complete this project. It was a great experience.
+## Tech Stack Used : -
+
+- #### Languages
+  - `HTML`
+  - `CSS`
+  - `JavaScript `
+  
+
+---
+
+### _Following are the Screenshots for the reference_
+
+- **Landing Page**
+  ![Landing Page](https://i.postimg.cc/vHs6CJQ8/Screenshot-618.png)
+
+- **Log-in Page**
+
+  ![Landing Page](https://i.postimg.cc/L83xnsRV/Screenshot-549.png)
+
+- ** Payment Page**
+
+  ![Landing Page](https://i.postimg.cc/gkvDT0wP/Screenshot-545.png)
+
+
+- **All Product Page**
+
+  ![Landing Page](https://i.postimg.cc/FRWb0fnj/Screenshot-543.png)
+
+---
+
+We worked with local Storage to deal with data . Add to card and the purchase details all the implemention as a genaral ecommerce webpage is created
+
+---
